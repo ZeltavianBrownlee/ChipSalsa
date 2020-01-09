@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ChipSalsa\ChipSalsa\bin\Debug\ChipSalsa.exe.config
+C:\Users\user\source\repos\ChipSalsa\ChipSalsa\bin\Debug\ChipSalsa.exe
+C:\Users\user\source\repos\ChipSalsa\ChipSalsa\bin\Debug\ChipSalsa.pdb
+C:\Users\user\source\repos\ChipSalsa\ChipSalsa\obj\Debug\ChipSalsa.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ChipSalsa\ChipSalsa\obj\Debug\ChipSalsa.exe
+C:\Users\user\source\repos\ChipSalsa\ChipSalsa\obj\Debug\ChipSalsa.pdb
